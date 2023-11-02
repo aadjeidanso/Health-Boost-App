@@ -1,4 +1,3 @@
-# Health-Boost-App
  ### EMMANUEL ADJEI DANSO 
  ### Title: HealthBoost
  
